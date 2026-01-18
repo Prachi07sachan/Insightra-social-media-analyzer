@@ -1,4 +1,4 @@
-## Social Media Content Analyzer
+##  Insightra-Social Media Content Analyzer
 
 **Live Demo:** https://social-media-analyzer-1-83nk.onrender.com
 
